@@ -9,12 +9,7 @@
 
 
 
-## Dummy User Accounts
 
-| Email (Normal User) | Password | Email (Admin)     | Password  |
-| ------------------- | -------- | ----------------- | --------- |
-| user2@gmail.com     | user1234 | admin@gmail.com   | admin@123 |
-| user3@gmail.comm    | user1234 | admin01@gmail.com | user1234  |
 
 ## Tech Stack
 
