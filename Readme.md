@@ -1,29 +1,13 @@
-# Cricket Weapon E-Commerce Shopping App
----
-### ⚙️ &nbsp; Time Taken to Complete this Project :
-<p align="center">
-<a href="https://wakatime.com/badge/user/f7838f29-ea5b-42c9-a473-628c7d8bc934/project/bf69fe19-66f3-47fa-99e9-f9e2926856e5"><img src="https://wakatime.com/badge/user/f7838f29-ea5b-42c9-a473-628c7d8bc934/project/bf69fe19-66f3-47fa-99e9-f9e2926856e5.svg" alt="wakatime"></a>
-</p>
+# ShotVisinon - An Ecommerce Website for cricket equipment
 
 ---
-
-### If you find this project helpful, please consider giving it a star ⭐ and follow me on [GitHub](https://github.com/MehraDevesh2022) && [X](https://twitter.com/Iam_DEv22) for more exciting projects like this! 🚀
 
 
 ---
 
-## Introduction
----
-Welcome to Cricket Weapon, an e-commerce shopping app built using the MERN (MongoDB, Express, React, Node.js) stack and Material-UI (MUI) for the user interface. This project provides both normal user and admin modes, offering a wide range of features to enhance the shopping experience.
 
-## Demo
 
-### Normal User Area
 
-https://github.com/MehraDevesh2022/CricketWeapon-Store/assets/96515074/d8eb6147-aed7-42c5-8d1f-0afcf6d05689
-
-### Admin Area
-https://github.com/MehraDevesh2022/CricketWeapon-Store/assets/96515074/bfc07258-0a0a-4840-b277-25dceafb4795
 
 ## Dummy User Accounts
 
@@ -35,7 +19,7 @@ https://github.com/MehraDevesh2022/CricketWeapon-Store/assets/96515074/bfc07258-
 ## Tech Stack
 
 
-![MongoDB](https://img.shields.io/badge/-MongoDB-green) ![Express](https://img.shields.io/badge/-Express-blue) ![React](https://img.shields.io/badge/-React-blue) ![Node.js](https://img.shields.io/badge/-Node.js-green) ![Material-UI](https://img.shields.io/badge/-Material--UI-blue) ![Stripe](https://img.shields.io/badge/-Stripe-blue) ![Mongoose](https://img.shields.io/badge/-Mongoose-green) ![Redux](https://img.shields.io/badge/-Redux-purple) ![Redux-thunk](https://img.shields.io/badge/-Redux--thunk-purple) ![CSS3](https://img.shields.io/badge/-CSS3-blue)
+
 
 ## Project Configuration Guide
 
@@ -75,7 +59,7 @@ https://github.com/MehraDevesh2022/CricketWeapon-Store/assets/96515074/bfc07258-
 
 1.  Clone the repository:
     ```bash
-    git clone https://github.com/MehraDevesh2022/CricketWeapon-Store.git
+     git clone https://github.com/PalakDev1/StumpVision-.git
     cd CricketWeapon-Store
     ```
 2.  Install dependencies:
@@ -320,11 +304,4 @@ This guide will walk you through the process of hosting your complete MERN stack
 
 - Congratulations! Your app is now live and accessible.
 
-## Contributions
-
-| Contributor                                           |
-| ----------------------------------------------------- |
-| [ImgBotApp](https://github.com/ImgBotApp)             |
-| [MehraDevesh2022](https://github.com/MehraDevesh2022) |
-| [0dayhunter](https://github.com/MehraDevesh2022) |
 
